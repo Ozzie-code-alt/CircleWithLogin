@@ -1,0 +1,12 @@
+C:\Users\justi\Desktop\SANTOS_02Circle\SANTOS_02Circle\bin\Debug\SANTOS_02Circle.exe.config
+C:\Users\justi\Desktop\SANTOS_02Circle\SANTOS_02Circle\bin\Debug\SANTOS_02Circle.exe
+C:\Users\justi\Desktop\SANTOS_02Circle\SANTOS_02Circle\bin\Debug\SANTOS_02Circle.pdb
+C:\Users\justi\Desktop\SANTOS_02Circle\SANTOS_02Circle\obj\Debug\SANTOS_02Circle.csproj.AssemblyReference.cache
+C:\Users\justi\Desktop\SANTOS_02Circle\SANTOS_02Circle\obj\Debug\SANTOS_02Circle.csproj.SuggestedBindingRedirects.cache
+C:\Users\justi\Desktop\SANTOS_02Circle\SANTOS_02Circle\obj\Debug\SANTOS_02Circle.Properties.Resources.resources
+C:\Users\justi\Desktop\SANTOS_02Circle\SANTOS_02Circle\obj\Debug\SANTOS_02Circle.csproj.GenerateResource.cache
+C:\Users\justi\Desktop\SANTOS_02Circle\SANTOS_02Circle\obj\Debug\SANTOS_02Circle.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\SANTOS_02Circle\SANTOS_02Circle\obj\Debug\SANTOS_02Circle.exe
+C:\Users\justi\Desktop\SANTOS_02Circle\SANTOS_02Circle\obj\Debug\SANTOS_02Circle.pdb
+C:\Users\justi\Desktop\SANTOS_02Circle\SANTOS_02Circle\obj\Debug\SANTOS_02Circle.Form1.resources
+C:\Users\justi\Desktop\SANTOS_02Circle\SANTOS_02Circle\obj\Debug\SANTOS_02Circle.CircleForm.resources
